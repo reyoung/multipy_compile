@@ -1,0 +1,3 @@
+[submodule "multipy"]
+	path = multipy
+	url = https://github.com/reyoung/multipy.git
